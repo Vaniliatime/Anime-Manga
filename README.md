@@ -9,7 +9,7 @@ School Project Website HTML/CSS/JS   about anime and manga </br>
 <b> <center>  Manga Section </b> </center> </br>
 ![](Pictures/Beater2.png)
 
-<b> <center>  Characters </b> </center> </br>
+<b> <center>  Characters / Gif  </b> </center> </br>
 ![](Pictures/Beater3.png)
 
 
